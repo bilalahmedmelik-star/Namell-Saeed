@@ -1,8 +1,20 @@
 {
   "name": "vite-react-typescript-starter",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
+  "description": "[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-xmt6brdm)",
+  "homepage": "https://github.com/bilalahmedmelik-star/Namell-Saeed#readme",
+  "bugs": {
+    "url": "https://github.com/bilalahmedmelik-star/Namell-Saeed/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilalahmedmelik-star/Namell-Saeed.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
